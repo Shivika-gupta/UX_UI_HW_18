@@ -747,8 +747,8 @@ footer .logos_footer img {
   .logo {
     position: absolute;
     right: 0;
-    font-size: 20px;
-    margin-top: -2%;
+    font-size: 15px;
+    margin-top: 0%;
   }
   nav {
     display: inline-block;

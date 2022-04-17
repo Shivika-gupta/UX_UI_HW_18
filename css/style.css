@@ -1348,7 +1348,7 @@ footer .logos_footer img {
     font-family: 'Supernett cn';
   }
   footer div ul li.copyright {
-    margin-left: 30%;
+    margin-left: -10%;
     width: 100%;
   }
   footer div ul li.copyright img {
@@ -1362,7 +1362,7 @@ footer .logos_footer img {
     margin-left: 10%;
   }
   footer div ul li.contact_me_footer a {
-    margin-left: 60%;
+    margin-left: -60%;
   }
   footer div {
     margin-left: 6%;

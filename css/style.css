@@ -134,12 +134,13 @@ nav ul li a {
 .section_one .wrapper h4 {
   text-align: center;
   font-size: 40px;
-  font-weight: 500;
+  font-weight: 700;
   font-family: 'Montserrat', sans-serif;
 }
 .section_one .wrapper h2 {
   text-align: center;
   font-size: 32px;
+  font-weight: 700;
 }
 .section_one .wrapper p {
   text-align: center;
@@ -353,7 +354,7 @@ footer div a.connect_me {
   font-family: 'Supernett cn';
 }
 footer div ul li.contact_me_footer a {
-  margin-left: 70%;
+  margin-left: -40%;
 }
 footer div ul li.copyright {
   margin-left: 20%;
@@ -1133,7 +1134,7 @@ footer .logos_footer img {
   .section_one {
     background-color: #f4ecff;
     display: block;
-    height: 700px;
+    height: 850px;
   }
   .section_one .wrapper {
     display: block;
@@ -1155,7 +1156,7 @@ footer .logos_footer img {
     border-radius: 10%;
   }
   .section_one .wrapper h4 {
-    font-size: 22px;
+    font-size: 28px;
     margin-left: 1%;
   }
   .section_one .wrapper h2 {
@@ -1163,7 +1164,7 @@ footer .logos_footer img {
     font-size: 22px;
   }
   .section_one .wrapper p {
-    font-size: 22px;
+    font-size: 28px;
     width: 550px;
     margin-left: 10%;
     font-family: 'Fira Sans', sans-serif;
